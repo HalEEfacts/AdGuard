@@ -1,0 +1,8 @@
+!
+! Title: Personal DNS whitelist
+! Description: 
+! Homepage: https://github.com/HalEEfacts/AdGuard
+! 
+! Last modified: 2021-05-27
+@@||google.com^
+@@||www.vice.com^$client='Trevor Phone'
